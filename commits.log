@@ -1,0 +1,99 @@
+commit da410f7d5654c0e7e1ff7291f2ab18026b22b83e
+Merge: 811a088 cee186d
+Author: Juan Quintero <juan.02.09@outlook.es>
+Date:   Mon Oct 31 12:46:56 2022 -0500
+
+    Resolviendo conflicto en las estaciones del año y fechas de inicio
+
+commit 811a0881d9e0846364d93d33c34797d63e532079
+Author: Juan Quintero <juan.02.09@outlook.es>
+Date:   Mon Oct 31 12:30:23 2022 -0500
+
+    Agreagndo estaciones del año con fecha de inicio
+
+commit cee186d77492ea643de6f2526976751192e37a33
+Author: Juan Quintero <juan.02.09@outlook.es>
+Date:   Mon Oct 31 12:30:23 2022 -0500
+
+    Agregando las estaciones del año
+
+commit b92ab32ffa7f6fa87827de64eab8c97c90653d1f
+Author: Juan Quintero <juan.02.09@outlook.es>
+Date:   Mon Oct 31 12:28:05 2022 -0500
+
+    AÃgregando index.js y style.css a index.html
+
+commit 32633e0cff23570568d2baccae462f12f497d882
+Merge: 5644494 c1e29e7
+Author: Juan Quintero <juan.02.09@outlook.es>
+Date:   Mon Oct 31 12:09:57 2022 -0500
+
+    Merge branch 'js'
+
+commit 56444947f36edfdc2e704f37a0719bb74f1920d7
+Merge: fafe17a e93cb2f
+Author: Juan Quintero <juan.02.09@outlook.es>
+Date:   Mon Oct 31 12:06:30 2022 -0500
+
+    Merge branch 'css'
+
+commit fafe17ad125da7f05584bc7863f5c0eccb7113d4
+Merge: 3944900 3908749
+Author: Juan Quintero <juan.02.09@outlook.es>
+Date:   Mon Oct 31 12:06:10 2022 -0500
+
+    Merge branch 'html'
+
+commit 394490080e5a9581893c867c40d0ed8a49f2379a
+Author: Juan Quintero <juan.02.09@outlook.es>
+Date:   Mon Oct 31 11:58:49 2022 -0500
+
+    Por alguna razon no se guardo
+
+commit c1e29e70d0eeae8f2a682fc57422d529cd40aaa2
+Author: Juan Quintero <juan.02.09@outlook.es>
+Date:   Sun Oct 30 21:24:16 2022 -0500
+
+    Creando archivo js
+
+commit e93cb2f6bb07e7a4b7ed4fb9b177fd26e120ccf1
+Author: Juan Quintero <juan.02.09@outlook.es>
+Date:   Sun Oct 30 21:19:24 2022 -0500
+
+    ACreando style.css
+
+commit 390874917888b56df9b197ea947685e8073ab17e
+Author: Juan Quintero <juan.02.09@outlook.es>
+Date:   Sun Oct 30 21:14:55 2022 -0500
+
+    Creando archivo index.html
+
+commit a2828afb2fd874eed82bc977f15eda0fcbbe65b6
+Author: Juan Quintero <juan.02.09@outlook.es>
+Date:   Sun Oct 30 21:02:31 2022 -0500
+
+    Ignorando archivos .exe
+
+commit e78ec3aa1c3e2462c888e0d0563fd54132c4d754
+Author: Juan Quintero <117047711+Seb9809@users.noreply.github.com>
+Date:   Sun Oct 30 20:33:37 2022 -0500
+
+    creando licencia del repositorio
+
+commit 3ea48e60192826e0434a20d11f53d7b476911d52
+Author: Juan Quintero <juan.02.09@outlook.es>
+Date:   Sun Oct 30 20:27:49 2022 -0500
+
+    Agregando mas contenido al README
+
+commit c8ca2615a4359a3416a5fd4acb6b3b033335ca04
+Author: Juan Quintero <juan.02.09@outlook.es>
+Date:   Sun Oct 30 20:17:29 2022 -0500
+
+    AÃgregando contenido inicial al README
+
+commit 6765572a7b9afc6e8819feeee8eedf026facf133
+Author: Juan Quintero <juan.02.09@outlook.es>
+Date:   Sun Oct 30 20:12:19 2022 -0500
+
+    Primer commit 😠
