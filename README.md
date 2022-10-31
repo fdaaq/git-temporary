@@ -2,4 +2,4 @@
 
 Esto es un curso de git y github.
 
-Porque me salio esa A con tilde?
+Este commit es para oficializar la version **1.0.0**
