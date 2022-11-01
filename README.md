@@ -1,7 +1,7 @@
 # Curso de _Git_ & _Github_
 
-Esto es un curso de git y github.
+Esto es un curso de **Git** y **Github**.
 
-Este commit es para oficializar la version **1.0.0**.
+La siguiente imagen te muestra el flujo inicial de Git.
 
-Cambio de prueba
+![Flujo de Git](git-flow.png)
